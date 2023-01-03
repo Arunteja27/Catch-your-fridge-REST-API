@@ -1,0 +1,4 @@
+user: Arunteja_CommFridge_User
+pwd: WXSK1t9mnMBox8Ds
+
+URL: mongodb+srv://Arunteja_CommFridge_User:<password>@cluster0.0jbzi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
