@@ -9,8 +9,7 @@ The server.js file contains more routes used by the express application.
 
 The 3 model files; fridgeModel.js, itemModel.js and typeModel.js are in the "models" subfolder. 
 
-The data subfolder contains the json data only used by the application to initialize the MongoDB database, after which all data manipulation is done on data  
-in the MongoDB database.
+The data subfolder contains the json data only used by the application to initialize the MongoDB database, after which all data manipulation is done on data in the MongoDB database.
 
 Any relevant instructions for running your code:
 npm install node    
