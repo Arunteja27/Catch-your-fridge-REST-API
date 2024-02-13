@@ -1,4 +1,4 @@
-# CommunityFridge_REST_API_Arunteja
+# Catch your fridge! (REST API)
 A REST API for a Community Fridge management system, using Node.js, JavaScript, Express and MongoDB.    
 
 ## Description of contents
